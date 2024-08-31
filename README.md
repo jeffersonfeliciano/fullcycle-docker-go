@@ -13,7 +13,7 @@ Clonar o projeto através do GITHUB e executar o comando na pasta do projeto.
 
 Executar o comando na pasta do projeto:
 
-> docker build -t fullcycle-go .
+> docker build -t jeffersonfelicianosilva/fullcycle-go .
 
 Após a construção do projeto executar o comando 
 
